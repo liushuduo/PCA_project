@@ -169,5 +169,6 @@ dmypy.json
 cython_debug/
 
 # Dataset
-/assert
+/MNIST
+/faces
 

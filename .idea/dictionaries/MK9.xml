@@ -2,7 +2,11 @@
   <dictionary name="MK9">
     <words>
       <w>dataset</w>
+      <w>eigenface</w>
+      <w>eigenfaces</w>
       <w>mnist</w>
+      <w>mydigit</w>
+      <w>pred</w>
     </words>
   </dictionary>
 </component>
